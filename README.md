@@ -1,4 +1,4 @@
-1. Intro
+Intro
 
 In this project, I worked mostly with Python to understand how two things:
 - How running a computer program would allow me to create a fully functioning webpage that would take user inputs and transform the HTML accordingly.
@@ -7,12 +7,14 @@ In this project, I worked mostly with Python to understand how two things:
 Note: little attention has been brought to the actual style of the page, the focus was on the python code.
 
 
-2. How does it work?
+
+How does it work?
 
 Simply run the create_simple_movie_website.py with an adapted interpreter and a webpage with my favorite movies and some information about them should automatically be created.
 
 
-3. How do I adapt it to my taste?
+
+How do I adapt it to my taste?
 
 Simply change the input in the create_simple_movie_website.py file in this way:
 
